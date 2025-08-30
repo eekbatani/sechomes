@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Main Pages -->
+
+  <url>
+
+    <loc>https://www.securehomeinspection.ca/index.html</loc>
+
+    <priority>1.0</priority>
+
+    <changefreq>weekly</changefreq>
+
+  </url>
+
+  <url>
+
+    <loc>https://www.securehomeinspection.ca/services.html</loc>
+
+    <priority>0.8</priority>
+
+    <changefreq>monthly</changefreq>
+
+  </url>
+
+  <url>
+
+    <loc>https://www.securehomeinspection.ca/booking.html</loc>
+
+    <priority>0.7</priority>
+
+    <changefreq>monthly</changefreq>
+
+  </url>
+
+  <!-- Regional Pages -->
+
+  <url>
+
+    <loc>https://www.securehomeinspection.ca/regions/york-region.html</loc>
+
+    <priority>0.6</priority>
+
+    <changefreq>monthly</changefreq>
+
+  </url>
+
+  <url>
+
+    <loc>https://www.securehomeinspection.ca/regions/oakville.html</loc>
+
+    <priority>0.6</priority>
+
+    <changefreq>monthly</changefreq>
+
+  </url>
+
+  <url>
+
+    <loc>https://www.securehomeinspection.ca/regions/simcoe-county.html</loc>
+
+    <priority>0.6</priority>
+
+    <changefreq>monthly</changefreq>
+
+  </url>
+
+  <!-- City-Specific Pages -->
+
+  <url>
+
+    <loc>https://www.securehomeinspection.ca/regions/vaughan.html</loc>
+
+    <priority>0.5</priority>
+
+    <changefreq>monthly</changefreq>
+
+  </url>
+
+  <url>
+
+    <loc>https://www.securehomeinspection.ca/regions/richmond-hill.html</loc>
+
+    <priority>0.5</priority>
+
+    <changefreq>monthly</changefreq>
+
+  </url>
+
+  <url>
+
+    <loc>https://www.securehomeinspection.ca/regions/aurora.html</loc>
+
+    <priority>0.5</priority>
+
+    <changefreq>monthly</changefreq>
+
+  </url>
+
+  <url>
+
+    <loc>https://www.securehomeinspection.ca/regions/markham.html</loc>
+
+    <priority>0.5</priority>
+
+    <changefreq>monthly</changefreq>
+
+  </url>
+
+  <url>
+
+    <loc>https://www.securehomeinspection.ca/regions/burlington.html</loc>
+
+    <priority>0.5</priority>
+
+    <changefreq>monthly</changefreq>
+
+  </url>
+
+  <url>
+
+    <loc>https://www.securehomeinspection.ca/regions/hamilton.html</loc>
+
+    <priority>0.5</priority>
+
+    <changefreq>monthly</changefreq>
+
+  </url>
+
+  <url>
+
+    <loc>https://www.securehomeinspection.ca/regions/east-gwillimbury.html</loc>
+
+    <priority>0.5</priority>
+
+    <changefreq>monthly</changefreq>
+
+  </url>
+
+  <url>
+
+    <loc>https://www.securehomeinspection.ca/regions/bradford-west-gwillimbury.html</loc>
+
+    <priority>0.5</priority>
+
+    <changefreq>monthly</changefreq>
+
+  </url>
+
+  <url>
+
+    <loc>https://www.securehomeinspection.ca/regions/innisfil.html</loc>
+
+    <priority>0.5</priority>
+
+    <changefreq>monthly</changefreq>
+
+  </url>
+
+  <url>
+
+    <loc>https://www.securehomeinspection.ca/regions/barrie.html</loc>
+
+    <priority>0.5</priority>
+
+    <changefreq>monthly</changefreq>
+
+  </url>
+
+  <url>
+
+    <loc>https://www.securehomeinspection.ca/regions/georgina.html</loc>
+
+    <priority>0.5</priority>
+
+    <changefreq>monthly</changefreq>
+
+  </url>
+
+</urlset>
